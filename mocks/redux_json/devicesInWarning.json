@@ -1,0 +1,30 @@
+[
+  {
+    "devId": 0,
+    "type": 3,
+    "hidId": 0,
+    "msg": "CASSETTE EMPTY OR OUT OF ORDER.",
+    "image": "/media/banners/HCM20_1.png"
+  },
+  {
+    "devId": 0,
+    "type": 3,
+    "hidId": 1,
+    "msg": "CASSETTE EMPTY OR OUT OF ORDER.",
+    "image": "/media/banners/Cashcode0_2.png"
+  },
+  {
+    "devId": 0,
+    "type": 3,
+    "hidId": 2,
+    "msg": "CASSETTE EMPTY OR OUT OF ORDER.",
+    "image": "/media/banners/HCM20_1.png"
+  },
+  {
+    "devId": 0,
+    "type": 3,
+    "hidId": 3,
+    "msg": "CASSETTE EMPTY OR OUT OF ORDER.",
+    "image": "/media/banners/Cashcode0_2.png"
+  }
+]

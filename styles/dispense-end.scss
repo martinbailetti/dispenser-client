@@ -1,0 +1,29 @@
+.dispense-end {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: $screenWidth;
+  height: $screenHeight;
+
+  .dispense-end-content {
+    width: 80%;
+    height: 50%;
+    box-shadow: 2px 5px 25px 0px rgba(0, 0, 0, 0.77);
+    background-color: $colorPrimary;
+    border-radius: 12px;
+    padding: 30px 30px;
+    flex-direction: column;
+    display: flex;
+    font-family: $fontBold;
+    text-align: center;
+    color: white;
+
+    .text {
+      padding-top: 30%;
+      color: gold;
+      font-size: 60px;
+      text-transform: uppercase;
+    }
+  }
+}

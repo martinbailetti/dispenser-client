@@ -1,0 +1,59 @@
+.outofservice {
+  display: flex;
+  flex-direction: column;
+  height: $screenHeight;
+
+  justify-content: flex-start;
+
+  .container {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    flex-direction: column;
+    display: flex;
+    border-radius: 12px;
+    box-shadow: 2px 5px 25px 0px rgba(0, 0, 0, 0.77);
+    overflow: hidden;
+    padding: 30px 30px;
+    margin-top: 30%;
+    min-height: 50%;
+    justify-content: space-between;
+    align-items: center;
+    background-color: $colorPrimary;
+    color: white;
+
+    .title {
+      font-size: 50px;
+      text-transform: uppercase;
+      padding-top: 60px;
+      font-family: $fontBold;
+    }
+
+    .text {
+      font-size: 50px;
+      text-align: center;
+      font-family: $fontBold;
+    }
+
+    .contact-text {
+      margin-top: 40px;
+      font-size: 40px;
+      text-align: center;
+      border: 1px solid white;
+      border-radius: 12px;
+      padding: 20px 20px;
+
+      .data {
+        margin-top: 20px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+
+        img {
+          height: 40px;
+          margin-right: 10px;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,53 @@
+.dispense {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: $screenWidth;
+  height: $screenHeight;
+
+  .dispense-content {
+    width: 80%;
+    height: 50%;
+    box-shadow: 2px 5px 25px 0px rgba(0, 0, 0, 0.77);
+    background-color: $colorPrimary;
+    border-radius: 12px;
+    padding: 30px 30px;
+    flex-direction: column;
+    display: flex;
+    font-family: $fontBold;
+    text-align: center;
+    font-size: 80px;
+    text-transform: uppercase;
+
+    .logo {
+      img {
+        max-width: 500px;
+      }
+    }
+
+    .money {
+      padding-top: 30%;
+      .title {
+        color: white;
+        font-size: 40px;
+      }
+      .counter {
+        color: gold;
+        margin-top: 10px;
+      }
+    }
+
+    .card {
+      padding-top: 30%;
+      .title {
+        color: white;
+        font-size: 40px;
+      }
+      .counter {
+        color: gold;
+        margin-top: 10px;
+      }
+    }
+  }
+}

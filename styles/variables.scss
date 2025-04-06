@@ -1,0 +1,10 @@
+$screenWidth: 1080px;
+$screenHeight: 1920px;
+$menuHeight: 120px;
+$footerHeight: 200px;
+$indexMarginY: 25px;
+$marginTopBasicContent: 250px;
+$indexHeight: calc($screenHeight - $footerHeight - $menuHeight - 2 * $indexMarginY);
+$itemDetailHeight: calc($screenHeight - $footerHeight - $menuHeight);
+$colorPrimary: #028614;
+$fontBold: Pangram-Bold,Helvetica,sans-serif;

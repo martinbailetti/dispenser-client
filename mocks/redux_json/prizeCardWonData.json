@@ -1,0 +1,12 @@
+{
+  "winPrize": 1,
+  "available_money": true,
+  "status": "READY",
+  "enable_collect": true,
+  "type": "card",
+  "remainingMoneyToDispense": 0,
+  "quantity": 0,
+  "imageUrl": "/image.png",
+  "title": "Cero es tres",
+  "already_claimed": false
+}

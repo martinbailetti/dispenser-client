@@ -1,0 +1,24 @@
+{
+  "favorites.resources": [
+    {
+      "filePath": "public\\js\\faker.js",
+      "group": "Default"
+    },
+    {
+      "filePath": "public\\locales",
+      "group": "Default"
+    },
+    {
+      "filePath": "package.json",
+      "group": "Default"
+    },
+    {
+      "filePath": "src",
+      "group": "Default"
+    },
+    {
+      "filePath": "src\\styles",
+      "group": "Default"
+    }
+  ]
+}

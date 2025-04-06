@@ -1,0 +1,82 @@
+.processing {
+  display: flex;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: $screenWidth;
+  height: $screenHeight;
+  background: rgb(11, 98, 9);
+  background: linear-gradient(
+    0deg,
+    rgba(11, 98, 9, 1) 0%,
+    rgba(6, 124, 58, 1) 25%,
+    rgba(2, 134, 20, 1) 50%,
+    rgba(14, 120, 28, 1) 75%,
+    rgba(26, 84, 23, 1) 100%
+  );
+
+  &.show {
+    display: flex;
+  }
+  .loader-container {
+    transform: scale(4);
+    height: 90px;
+  }
+
+  .text {
+    font-size: 30px;
+    color: white;
+  }
+}
+
+/*
+LOADER
+*/
+
+.loader {
+  display: none;
+  width: 40px;
+  aspect-ratio: 1;
+  color: gold;
+  position: relative;
+  background: radial-gradient(10px, currentColor 94%, #0000);
+}
+
+.loader.show {
+  display: block;
+}
+
+.loader:before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: 50%;
+  background:
+    radial-gradient(9px at bottom right, #0000 94%, currentColor) top left,
+    radial-gradient(9px at bottom left, #0000 94%, currentColor) top right,
+    radial-gradient(9px at top right, #0000 94%, currentColor) bottom left,
+    radial-gradient(9px at top left, #0000 94%, currentColor) bottom right;
+  background-size: 20px 20px;
+  background-repeat: no-repeat;
+  animation: l18 1.5s infinite cubic-bezier(0.3, 1, 0, 1);
+}
+
+@keyframes l18 {
+  33% {
+    inset: -10px;
+    transform: rotate(0deg);
+  }
+
+  66% {
+    inset: -10px;
+    transform: rotate(90deg);
+  }
+
+  100% {
+    inset: 0;
+    transform: rotate(90deg);
+  }
+}

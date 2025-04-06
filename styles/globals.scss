@@ -1,0 +1,144 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Pangram-Regular, sans-serif;
+  font-size: 16px;
+  color: #333;
+  background-color: white;
+}
+
+body {
+  width: $screenWidth;
+  height: $screenHeight;
+  overflow: hidden;
+  background-size: cover;
+  background-image: url("/images/BGcoins.jpg");
+}
+
+* {
+  user-select: none;
+  -webkit-user-drag: none;
+  -webkit-touch-callout: none;
+  font-family: Pangram-Regular, sans-serif;
+}
+
+.main {
+  width: $screenWidth;
+  height: $screenHeight;
+  display: flex;
+  flex-direction: column;
+}
+
+.language-selector {
+  position: fixed;
+  top: 135px;
+  left: 1050px;
+  transform: translateX(-100%);
+  display: flex;
+  z-index: 2;
+
+  .list {
+    background-color: green;
+    padding: 10px;
+    border-radius: 8px;
+    position: absolute;
+    top: 35px;
+    left: -10px;
+
+    img {
+      margin-bottom: 5px;
+    }
+
+    img:last-child {
+      margin-bottom: 0;
+    }
+  }
+}
+
+.game-animated-image {
+  position: fixed;
+  -webkit-box-shadow: 2px 5px 5px 0px rgba(0, 0, 0, 0.77);
+  -moz-box-shadow: 2px 5px 25px 0px rgba(0, 0, 0, 0.77);
+  box-shadow: 2px 5px 5px 0px rgba(0, 0, 0, 0.77);
+  border: 1px solid lightgray;
+}
+
+.warning {
+  position: fixed;
+  top: 1667px;
+  left: 0px;
+  z-index: 1;
+  background-color: khaki;
+  padding: 3px 3px;
+  border-radius: 8px;
+  opacity: 0.75;
+
+  img {
+    width: 40px;
+    height: auto;
+  }
+
+  small {
+    margin-left: -5px;
+  }
+}
+
+.warnings {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  height: 100%;
+  width: 100%;
+  z-index: 2;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.5);
+
+  .content {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    background-color: white;
+    padding: 15px 15px;
+    border-radius: 8px;
+
+    .close {
+      display: inline-block;
+      margin-left: auto;
+    }
+
+    .warnings-list {
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-start;
+      align-items: flex-start;
+      margin-top: 15px;
+
+      .row {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        border-bottom: 1px solid lightgray;
+        padding-bottom: 10px;
+        padding-top: 10px;
+
+        img {
+          height: 100px;
+        }
+
+        &:last-child {
+          border-bottom: none;
+        }
+
+        div {
+          font-family: $fontBold;
+        }
+      }
+    }
+  }
+}

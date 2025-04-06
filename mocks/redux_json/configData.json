@@ -1,0 +1,21 @@
+{
+  "initialized": false,
+  "confirm_payment": false,
+  "give_change_immediately": true,
+  "default_inactivity_time": 300,
+  "video_loops": 3,
+  "currency": { "symbol": "$", "code": "USD" },
+  "has_claim_video": true,
+  "available_languages": ["es", "en", "ca", "zh"],
+  "default_language": "es",
+  "machine_id": "",
+  "machine_name": "",
+  "kiosk_token": "",
+  "audio_on_attract": true,
+  "show_internet_connection": true,
+  "video_intro": "",
+  "video_winner": "",
+  "video_looser": "",
+  "audio_song": "",
+  "app_version": ""
+}

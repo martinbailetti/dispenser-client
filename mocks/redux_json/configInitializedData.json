@@ -1,0 +1,23 @@
+{
+  "initialized": true,
+  "confirm_payment": false,
+  "give_change_immediately": true,
+  "default_inactivity_time": 300,
+  "video_loops": 3,
+  "currency": { "symbol": "$", "code": "USD" },
+  "has_claim_video": true,
+  "available_languages": ["es", "en", "ca", "zh"],
+  "default_language": "es",
+  "machine_id": "MACHINE_ID",
+  "machine_name": "MACINE_NAME",
+  "kiosk_token": "KIOSK_TOKEN",
+  "audio_on_attract": true,
+  "show_internet_connection": true,
+  "video_intro": "/media/videos/intro.mp4",
+  "video_winner": "/media/videos/winner.mp4",
+  "video_looser": "/media/videos/looser.mp4",
+  "audio_song": "/media/audios/song.mp3",
+  "app_version": "AppVersion 12",
+  "show_disclaimer": true,
+  "show_disclaimer_timeout":10
+}

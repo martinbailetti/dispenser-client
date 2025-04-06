@@ -1,0 +1,19 @@
+{
+  "balance": 0,
+  "items": [
+    {
+      "id": "1",
+      "dispenser": 1,
+      "screen_position": 0,
+      "quantity": 3,
+      "price": 2,
+      "title": "{\"es\":\"Cero es tres\",\"en\":\"Cero es tres\",\"ca\":\"Cero es tres\",\"zh\":\"Cero es tres\"}",
+      "image": "/media/banners/1726734627.png"
+    }
+  ],
+  "loading": "idle",
+  "inactivity_warning": false,
+  "error": null,
+  "ended": false,
+  "text": ""
+}

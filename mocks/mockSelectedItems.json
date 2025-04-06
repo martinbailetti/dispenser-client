@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "title": "{\"es\":\"Cero es tres\",\"en\":\"Cero es tres\",\"ca\":\"Cero es tres\",\"zh\":\"Cero es tres\"}",
+    "image": "AF_Cero-es-Tres_AF_Edit.png",
+    "price": "1.00",
+    "quantity": "3"
+  },
+  {
+    "id": "2",
+    "title": "{\"es\":\"El Tesoro\",\"en\":\"El Tesoro\",\"ca\":\"El Tesoro\",\"zh\":\"El Tesoro\"}",
+    "image": "AF_El_Tesoro_AF_Edit.png",
+    "price": "1.00",
+    "quantity": "40"
+  },
+  {
+    "id": "3",
+    "title": "{\"es\":\"La Dupla de la Suerte\",\"en\":\"La Dupla de la Suerte\",\"ca\":\"La Dupla de la Suerte\",\"zh\":\"La Dupla de la Suerte\"}",
+    "image": "AF_La_Dupla_AF_Edit.png",
+    "price": "2.00",
+    "quantity": "40"
+  }
+]

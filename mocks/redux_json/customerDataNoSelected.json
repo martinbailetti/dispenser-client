@@ -1,0 +1,9 @@
+{
+  "balance": 0,
+  "items": [],
+  "loading": "idle",
+  "inactivity_warning": false,
+  "error": null,
+  "ended": false,
+  "text": ""
+}

@@ -1,0 +1,110 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "title": "{\"es\":\"Cero es tres\",\"en\":\"Cero es tres\",\"ca\":\"Cero es tres\",\"zh\":\"Cero es tres\"}",
+      "image": "/media/banners/1726734627.png",
+      "thumbnail": "/media/thumbnails/1726751490.png",
+      "price": 1,
+      "current_quantity": 3,
+      "max_quantity": 12,
+      "description": "{\"es\":\"Cero es tres\",\"en\":\"Cero es tres\",\"ca\":\"Cero es tres\",\"zh\":\"Cero es tres\"}",
+      "status": "ok",
+      "dispenser": 0,
+      "screen_position": 0
+    },
+    {
+      "id": "2",
+      "title": "{\"es\":\"El Tesoro\",\"en\":\"El Tesoro\",\"ca\":\"El Tesoro\",\"zh\":\"El Tesoro\"}",
+      "image": "/media/banners/1726734646.png",
+      "thumbnail": "/media/thumbnails/1726751513.png",
+      "price": 1.0,
+      "current_quantity": 40,
+      "max_quantity": 12,
+      "description": "{\"es\":\"\u003Cp\u003EPara ganar sigue estos pasos:\u003C\\/p\u003E\\r\\n\u003Col\u003E\\r\\n\u003Cli\u003ERaspa el &aacute;rea de juego identificada con el color chocolate.\u003C\\/li\u003E\\r\\n\u003Cli\u003EBusca y encuentra 3 s&iacute;mbolos iguales.\u003C\\/li\u003E\\r\\n\u003Cli\u003EGanar&aacute;s el premio indicado en tu tarjeta.\u003C\\/li\u003E\\r\\n\u003C\\/ol\u003E\",\"en\":\"\u003Cp\u003ETo win, follow these steps:\u003C\\/p\u003E\\r\\n\u003Col\u003E\\r\\n\u003Cli\u003EScratch the play area identified with the color chocolate.\u003C\\/li\u003E\\r\\n\u003Cli\u003ELook for and find 3 matching symbols.\u003C\\/li\u003E\\r\\n\u003Cli\u003EYou will win the prize indicated on your card.\u003C\\/li\u003E\\r\\n\u003C\\/ol\u003E\",\"ca\":\"\u003Cp\u003EPer guanyar segueix aquests passos:\u003C\\/p\u003E\\r\\n\u003Col\u003E\\r\\n\u003Cli\u003ERasca l'&agrave;rea de joc identificada amb el color xocolata.\u003C\\/li\u003E\\r\\n\u003Cli\u003EBusca i troba 3 s&iacute;mbols iguals.\u003C\\/li\u003E\\r\\n\u003Cli\u003EGuanyar&agrave;s el premi indicat a la teva targeta.\u003C\\/li\u003E\\r\\n\u003C\\/ol\u003E\",\"zh\":\"\u003Cp\u003E\\u8981\\u8d0f\\u8acb\\u6309\\u7167\\u4ee5\\u4e0b\\u6b65\\u9a5f\\uff1a\u003C\\/p\u003E\\r\\n\u003Col\u003E\\r\\n\u003Cli\u003E\\u522e\\u958b\\u6a19\\u793a\\u70ba\\u5de7\\u514b\\u529b\\u8272\\u7684\\u904a\\u6232\\u5340\\u57df\\u3002\u003C\\/li\u003E\\r\\n\u003Cli\u003E\\u5c0b\\u627e\\u4e26\\u627e\\u52303\\u500b\\u76f8\\u540c\\u7684\\u7b26\\u865f\\u3002\u003C\\/li\u003E\\r\\n\u003Cli\u003E\\u4f60\\u5c07\\u8d0f\\u5f97\\u5361\\u7247\\u4e0a\\u6a19\\u793a\\u7684\\u734e\\u54c1\\u3002\u003C\\/li\u003E\\r\\n\u003C\\/ol\u003E\"}",
+      "status": "ok",
+      "dispenser": 1,
+      "screen_position": 1
+    },
+    {
+      "id": "30",
+      "title": "{\"es\":\"La Dupla de la Suerte\",\"en\":\"La Dupla de la Suerte\",\"ca\":\"La Dupla de la Suerte\",\"zh\":\"La Dupla de la Suerte\"}",
+      "image": "/media/banners/1726734676.png",
+      "thumbnail": "/media/thumbnails/1726751550.png",
+      "price": 2.0,
+      "current_quantity": 40,
+      "max_quantity": 12,
+      "description": "{\"es\":\"La Dupla de la Suerte\",\"en\":\"La Dupla de la Suerte\",\"ca\":\"La Dupla de la Suerte\",\"zh\":\"La Dupla de la Suerte\"}",
+      "status": "ok",
+      "dispenser": 2,
+      "screen_position": 2
+    },
+    {
+      "id": "45",
+      "title": "{\"es\":\"La Terna de la Suerte\",\"en\":\"La Terna de la Suerte\",\"ca\":\"La Terna de la Suerte\",\"zh\":\"La Terna de la Suerte\"}",
+      "image": "/media/banners/1726734711.png",
+      "thumbnail": "/media/thumbnails/1726751604.png",
+      "price": 3.0,
+      "current_quantity": 40,
+      "max_quantity": 12,
+      "description": "{\"es\":\"\u003Cp\u003ERaspa el &aacute;rea de juego.\u003C\\/p\u003E\\r\\n\u003Col\u003E\\r\\n\u003Cli\u003ERevisa los (3) n&uacute;meros de la suerte.\u003C\\/li\u003E\\r\\n\u003Cli\u003ECompara tus n&uacute;meros de la suerte con los n&uacute;meros en el &aacute;rea de juego.\u003C\\/li\u003E\\r\\n\u003Cli\u003ESi encuentras 1, 2 o 3 coincidencias entre tus n&uacute;meros de la suerte y los del &aacute;rea de juego, ganar&aacute;s el premio indicado.\u003C\\/li\u003E\\r\\n\u003Cli\u003EEntre mas coincidencias tengas m&aacute;s ganas.\u003C\\/li\u003E\\r\\n\u003C\\/ol\u003E\",\"en\":\"\u003Cp\u003EScratch the play area.\u003C\\/p\u003E\\r\\n\u003Col\u003E\\r\\n\u003Cli\u003ECheck the three (3) lucky numbers.\u003C\\/li\u003E\\r\\n\u003Cli\u003ECompare your lucky numbers with the numbers in the play area.\u003C\\/li\u003E\\r\\n\u003Cli\u003EIf you find 1, 2, or 3 matches between your lucky numbers and the numbers in the play area, you will win the indicated prize.\u003C\\/li\u003E\\r\\n\u003Cli\u003EThe more matches you have, the more you win.\u003C\\/li\u003E\\r\\n\u003C\\/ol\u003E\",\"ca\":\"\u003Cp\u003ERasca l'&agrave;rea de joc.\u003C\\/p\u003E\\r\\n\u003Col\u003E\\r\\n\u003Cli\u003ERevisa els tres (3) n&uacute;meros de la sort.\u003C\\/li\u003E\\r\\n\u003Cli\u003ECompara els teus n&uacute;meros de la sort amb els n&uacute;meros de l'&agrave;rea de joc.\u003C\\/li\u003E\\r\\n\u003Cli\u003ESi trobes 1, 2 o 3 coincid&egrave;ncies entre els teus n&uacute;meros de la sort i els de l'&agrave;rea de joc, guanyar&agrave;s el premi indicat.\u003C\\/li\u003E\\r\\n\u003Cli\u003ECom m&eacute;s coincid&egrave;ncies tinguis, m&eacute;s guanyar&agrave;s.\u003C\\/li\u003E\\r\\n\u003C\\/ol\u003E\",\"zh\":\"\u003Cp\u003E\\u522e\\u958b\\u904a\\u6232\\u5340\\u57df\\u3002\u003C\\/p\u003E\\r\\n\u003Col\u003E\\r\\n\u003Cli\u003E\\u67e5\\u770b\\u4e09\\u500b\\u5e78\\u904b\\u865f\\u78bc\\u3002\u003C\\/li\u003E\\r\\n\u003Cli\u003E\\u5c07\\u4f60\\u7684\\u5e78\\u904b\\u865f\\u78bc\\u8207\\u904a\\u6232\\u5340\\u57df\\u5167\\u7684\\u865f\\u78bc\\u9032\\u884c\\u6bd4\\u8f03\\u3002\u003C\\/li\u003E\\r\\n\u003Cli\u003E\\u5982\\u679c\\u4f60\\u7684\\u5e78\\u904b\\u865f\\u78bc\\u8207\\u904a\\u6232\\u5340\\u57df\\u5167\\u7684\\u865f\\u78bc\\u67091\\u30012\\u62163\\u500b\\u5339\\u914d\\uff0c\\u4f60\\u5c07\\u8d0f\\u5f97\\u6a19\\u793a\\u7684\\u734e\\u54c1\\u3002\u003C\\/li\u003E\\r\\n\u003Cli\u003E\\u5339\\u914d\\u7684\\u6578\\u5b57\\u8d8a\\u591a\\uff0c\\u8d0f\\u5f97\\u7684\\u734e\\u54c1\\u8d8a\\u591a\\u3002\u003C\\/li\u003E\\r\\n\u003C\\/ol\u003E\"}",
+      "status": "ok",
+      "dispenser": 3,
+      "screen_position": 3
+    },
+    {
+      "id": "5",
+      "title": "{\"es\":\"La Quina de la Suerte\",\"en\":\"La Quina de la Suerte\",\"ca\":\"La Quina de la Suerte\",\"zh\":\"La Quina de la Suerte\"}",
+      "image": "/media/banners/1726734696.png",
+      "thumbnail": "/media/thumbnails/1726751591.png",
+      "price": 5.0,
+      "current_quantity": 40,
+      "max_quantity": 12,
+      "description": "{\"es\":\"\u003Cp\u003EPara ganar sigue estos pasos:\u003C\\/p\u003E\\r\\n\u003Col\u003E\\r\\n\u003Cli\u003ERaspa el &aacute;rea de juego.\u003C\\/li\u003E\\r\\n\u003Cli\u003ERevisa los (5) n&uacute;meros de la suerte.\u003C\\/li\u003E\\r\\n\u003Cli\u003ECompara tus n&uacute;meros de la suerte con los n&uacute;meros en el &aacute;rea de juego.\u003C\\/li\u003E\\r\\n\u003Cli\u003ESi encuentras 1, 2, 3, 4 y 5 coincidencias entre tus n&uacute;meros de la suerte y los del &aacute;rea de juego, ganar&aacute;s el premio indicado.\u003C\\/li\u003E\\r\\n\u003Cli\u003EEntre mas coincidencias tengas m&aacute;s ganas.\u003C\\/li\u003E\\r\\n\u003C\\/ol\u003E\",\"en\":\"\u003Cp\u003ETo win, follow these steps:\u003C\\/p\u003E\\r\\n\u003Col\u003E\\r\\n\u003Cli\u003EScratch the play area.\u003C\\/li\u003E\\r\\n\u003Cli\u003ECheck the five (5) lucky numbers.\u003C\\/li\u003E\\r\\n\u003Cli\u003ECompare your lucky numbers with the numbers in the play area.\u003C\\/li\u003E\\r\\n\u003Cli\u003EIf you find 1, 2, 3, 4, or 5 matches between your lucky numbers and the numbers in the play area, you will win the indicated prize.\u003C\\/li\u003E\\r\\n\u003Cli\u003EThe more matches you have, the more you win.\u003C\\/li\u003E\\r\\n\u003C\\/ol\u003E\",\"ca\":\"\u003Cp\u003EPer guanyar segueix aquests passos:\u003C\\/p\u003E\\r\\n\u003Col\u003E\\r\\n\u003Cli\u003ERasca l'&agrave;rea de joc.\u003C\\/li\u003E\\r\\n\u003Cli\u003ERevisa els cinc (5) n&uacute;meros de la sort.\u003C\\/li\u003E\\r\\n\u003Cli\u003ECompara els teus n&uacute;meros de la sort amb els n&uacute;meros de l'&agrave;rea de joc.\u003C\\/li\u003E\\r\\n\u003Cli\u003ESi trobes 1, 2, 3, 4 o 5 coincid&egrave;ncies entre els teus n&uacute;meros de la sort i els de l'&agrave;rea de joc, guanyar&agrave;s el premi indicat.\u003C\\/li\u003E\\r\\n\u003Cli\u003ECom m&eacute;s coincid&egrave;ncies tinguis, m&eacute;s guanyar&agrave;s.\u003C\\/li\u003E\\r\\n\u003C\\/ol\u003E\",\"zh\":\"\u003Cp\u003E\\u8981\\u8d0f\\u8acb\\u6309\\u7167\\u4ee5\\u4e0b\\u6b65\\u9a5f\\uff1a\u003C\\/p\u003E\\r\\n\u003Col\u003E\\r\\n\u003Cli\u003E\\u522e\\u958b\\u904a\\u6232\\u5340\\u57df\\u3002\u003C\\/li\u003E\\r\\n\u003Cli\u003E\\u67e5\\u770b\\u4e94\\u500b\\u5e78\\u904b\\u865f\\u78bc\\u3002\u003C\\/li\u003E\\r\\n\u003Cli\u003E\\u5c07\\u4f60\\u7684\\u5e78\\u904b\\u865f\\u78bc\\u8207\\u904a\\u6232\\u5340\\u57df\\u5167\\u7684\\u865f\\u78bc\\u9032\\u884c\\u6bd4\\u8f03\\u3002\u003C\\/li\u003E\\r\\n\u003Cli\u003E\\u5982\\u679c\\u4f60\\u7684\\u5e78\\u904b\\u865f\\u78bc\\u8207\\u904a\\u6232\\u5340\\u57df\\u5167\\u7684\\u865f\\u78bc\\u67091\\u30012\\u30013\\u30014\\u62165\\u500b\\u5339\\u914d\\uff0c\\u4f60\\u5c07\\u8d0f\\u5f97\\u6a19\\u793a\\u7684\\u734e\\u54c1\\u3002\u003C\\/li\u003E\\r\\n\u003Cli\u003E\\u5339\\u914d\\u7684\\u6578\\u5b57\\u8d8a\\u591a\\uff0c\\u8d0f\\u5f97\\u7684\\u734e\\u54c1\\u8d8a\\u591a\\u3002\u003C\\/li\u003E\\r\\n\u003C\\/ol\u003E\"}",
+      "status": "ok",
+      "dispenser": 4,
+      "screen_position": 4
+    },
+    {
+      "id": "678",
+      "title": "{\"es\":\"Raspa Party\",\"en\":\"Raspa Party\",\"ca\":\"Raspa Party\",\"zh\":\"Raspa Party\"}",
+      "image": "/media/banners/1726734740.png",
+      "thumbnail": "/media/thumbnails/1726751633.png",
+      "price": 0.5,
+      "current_quantity": 40,
+      "max_quantity": 12,
+      "description": "{\"es\":\"\u003Cp\u003EPara ganar sigue estos pasos:\u003C\\/p\u003E\\r\\n\u003Col\u003E\\r\\n\u003Cli\u003ERaspa el &aacute;rea de juego.\u003C\\/li\u003E\\r\\n\u003Cli\u003EDescubre el premio se&ntilde;alado en la tarjeta.\u003C\\/li\u003E\\r\\n\u003C\\/ol\u003E\",\"en\":\"\u003Cp\u003ETo win, follow these steps:\u003C\\/p\u003E\\r\\n\u003Col\u003E\\r\\n\u003Cli\u003EScratch the play area.\u003C\\/li\u003E\\r\\n\u003Cli\u003EReveal the prize indicated on the card.\u003C\\/li\u003E\\r\\n\u003C\\/ol\u003E\",\"ca\":\"\u003Cp\u003EPer guanyar segueix aquests passos:\u003C\\/p\u003E\\r\\n\u003Col\u003E\\r\\n\u003Cli\u003ERasca l'&agrave;rea de joc.\u003C\\/li\u003E\\r\\n\u003Cli\u003EDescobreix el premi indicat a la targeta.\u003C\\/li\u003E\\r\\n\u003C\\/ol\u003E\",\"zh\":\"\u003Cp\u003E\\u8981\\u8d0f\\u8acb\\u6309\\u7167\\u4ee5\\u4e0b\\u6b65\\u9a5f\\uff1a\u003C\\/p\u003E\\r\\n\u003Col\u003E\\r\\n\u003Cli\u003E\\u522e\\u958b\\u904a\\u6232\\u5340\\u57df\\u3002\u003C\\/li\u003E\\r\\n\u003Cli\u003E\\u63ed\\u793a\\u5361\\u7247\\u4e0a\\u6a19\\u793a\\u7684\\u734e\\u54c1\\u3002\u003C\\/li\u003E\\r\\n\u003C\\/ol\u003E\"}",
+      "status": "ok",
+      "dispenser": 5,
+      "screen_position": 5
+    },
+    {
+      "id": "7",
+      "title": "{\"es\":\"Ra$pa\\u00edto\",\"en\":\"Ra$pa\\u00edto\",\"ca\":\"Ra$pa\\u00edto\",\"zh\":\"Ra$pa\\u00edto\"}",
+      "image": "/media/banners/1726734726.png",
+      "thumbnail": "/media/thumbnails/1726751622.png",
+      "price": 3.0,
+      "current_quantity": 40,
+      "max_quantity": 12,
+      "description": "{\"es\":\"\u003Cp\u003EPara ganar sigue estos pasos:\u003C\\/p\u003E\\r\\n\u003Col\u003E\\r\\n\u003Cli\u003ERaspa el &aacute;rea de juego las dos &aacute;reas de juego de la tarjeta.\u003C\\/li\u003E\\r\\n\u003Cli\u003EBusca y encuentra el s&iacute;mbolo iguale, representado por una fruta.\u003C\\/li\u003E\\r\\n\u003Cli\u003EGanar&aacute;s el premio indicado en tu tarjeta.\u003C\\/li\u003E\\r\\n\u003C\\/ol\u003E\",\"en\":\"\u003Cp\u003ETo win, follow these steps:\u003C\\/p\u003E\\r\\n\u003Col\u003E\\r\\n\u003Cli\u003EScratch both play areas on the card.\u003C\\/li\u003E\\r\\n\u003Cli\u003ELook for and find the matching symbol, represented by a fruit.\u003C\\/li\u003E\\r\\n\u003Cli\u003EYou will win the prize indicated on your card.\u003C\\/li\u003E\\r\\n\u003C\\/ol\u003E\",\"ca\":\"\u003Cp\u003EPer guanyar segueix aquests passos:\u003C\\/p\u003E\\r\\n\u003Col\u003E\\r\\n\u003Cli\u003ERasca les dues &agrave;rees de joc de la targeta.\u003C\\/li\u003E\\r\\n\u003Cli\u003EBusca i troba el s&iacute;mbol igual, representat per una fruita.\u003C\\/li\u003E\\r\\n\u003Cli\u003EGuanyar&agrave;s el premi indicat a la teva targeta.\u003C\\/li\u003E\\r\\n\u003C\\/ol\u003E\",\"zh\":\"\u003Cp\u003E\\u8981\\u8d0f\\u8acb\\u6309\\u7167\\u4ee5\\u4e0b\\u6b65\\u9a5f\\uff1a\u003C\\/p\u003E\\r\\n\u003Col\u003E\\r\\n\u003Cli\u003E\\u522e\\u958b\\u5361\\u7247\\u4e0a\\u7684\\u5169\\u500b\\u904a\\u6232\\u5340\\u57df\\u3002\u003C\\/li\u003E\\r\\n\u003Cli\u003E\\u5c0b\\u627e\\u4e26\\u627e\\u5230\\u76f8\\u540c\\u7684\\u7b26\\u865f\\uff0c\\u8a72\\u7b26\\u865f\\u662f\\u7531\\u4e00\\u7a2e\\u6c34\\u679c\\u8868\\u793a\\u7684\\u3002\u003C\\/li\u003E\\r\\n\u003Cli\u003E\\u4f60\\u5c07\\u8d0f\\u5f97\\u5361\\u7247\\u4e0a\\u6a19\\u793a\\u7684\\u734e\\u54c1\\u3002\u003C\\/li\u003E\\r\\n\u003C\\/ol\u003E\"}",
+      "status": "ok",
+      "dispenser": 6,
+      "screen_position": 6
+    },
+    {
+      "id": "18",
+      "title": "{\"es\":\"Galleta de la Fortuna\",\"en\":\"Galleta de la Fortuna\",\"ca\":\"Galleta de la Fortuna\",\"zh\":\"Galleta de la Fortuna\"}",
+      "image": "/media/banners/1726734658.png",
+      "thumbnail": "/media/thumbnails/1726751531.png",
+      "price": 2.0,
+      "current_quantity": 40,
+      "max_quantity": 12,
+      "description": "{\"es\":\"\u003Cp\u003ETe ofrece dos juegos\u003Cbr\u003EPara ganar sigue estos pasos:\u003Cbr\u003E\u003Cbr\u003E\u003Cstrong\u003EJuego 1\u003C\\/strong\u003E\u003C\\/p\u003E\\r\\n\u003Col\u003E\\r\\n\u003Cli\u003ERaspa el &aacute;rea de juego.\u003C\\/li\u003E\\r\\n\u003Cli\u003ERevisa los (2) n&uacute;meros de la suerte.\u003C\\/li\u003E\\r\\n\u003Cli\u003ECompara tus n&uacute;meros de la suerte con los n&uacute;meros en el &aacute;rea de juego.\u003C\\/li\u003E\\r\\n\u003Cli\u003ESi encuentras 1 o 2 coincidencias entre tus n&uacute;meros de la suerte y los del &aacute;rea de juego, ganar&aacute;s el premio indicado.\u003C\\/li\u003E\\r\\n\u003Cli\u003EEntre mas coincidencias tengas m&aacute;s ganas.\u003C\\/li\u003E\\r\\n\u003C\\/ol\u003E\\r\\n\u003Cp\u003E\u003Cstrong\u003EJuego 2\u003C\\/strong\u003E\u003C\\/p\u003E\\r\\n\u003Col\u003E\\r\\n\u003Cli\u003ERaspa el &aacute;rea de juego.\u003C\\/li\u003E\\r\\n\u003Cli\u003EBusca y encuentra &ldquo;La Galleta de la Fortuna&rdquo;.\u003C\\/li\u003E\\r\\n\u003Cli\u003EGanar&aacute;s el premio indicado en ese juego.\u003C\\/li\u003E\\r\\n\u003C\\/ol\u003E\",\"en\":\"\u003Cp\u003EIt offers you two games\u003Cbr\u003ETo win, follow these steps:\u003Cbr\u003E\u003Cbr\u003E\u003Cstrong\u003EGame 1\u003C\\/strong\u003E\u003C\\/p\u003E\\r\\n\u003Col\u003E\\r\\n\u003Cli\u003EScratch the play area.\u003C\\/li\u003E\\r\\n\u003Cli\u003ECheck the two (2) lucky numbers.\u003C\\/li\u003E\\r\\n\u003Cli\u003ECompare your lucky numbers with the numbers in the play area.\u003C\\/li\u003E\\r\\n\u003Cli\u003EIf you find 1 or 2 matches between your lucky numbers and the numbers in the play area, you will win the indicated prize.\u003C\\/li\u003E\\r\\n\u003Cli\u003EThe more matches you have, the more you win.\u003C\\/li\u003E\\r\\n\u003C\\/ol\u003E\\r\\n\u003Cp\u003E\u003Cstrong\u003EGame 2\u003C\\/strong\u003E\u003C\\/p\u003E\\r\\n\u003Col\u003E\\r\\n\u003Cli\u003EScratch the play area.\u003C\\/li\u003E\\r\\n\u003Cli\u003ELook for and find \\\"The Fortune Cookie.\\\"\u003C\\/li\u003E\\r\\n\u003Cli\u003EYou will win the prize indicated in that game.\u003C\\/li\u003E\\r\\n\u003C\\/ol\u003E\",\"ca\":\"\u003Cp\u003EEt ofereix dos jocs\u003Cbr\u003EPer guanyar segueix aquests passos:\u003Cbr\u003E\u003Cbr\u003E\u003Cstrong\u003EJoc 1\u003C\\/strong\u003E\u003C\\/p\u003E\\r\\n\u003Col\u003E\\r\\n\u003Cli\u003ERasca l'&agrave;rea de joc.\u003C\\/li\u003E\\r\\n\u003Cli\u003ERevisa els dos (2) n&uacute;meros de la sort.\u003C\\/li\u003E\\r\\n\u003Cli\u003ECompara els teus n&uacute;meros de la sort amb els n&uacute;meros de l'&agrave;rea de joc.\u003C\\/li\u003E\\r\\n\u003Cli\u003ESi trobes 1 o 2 coincid&egrave;ncies entre els teus n&uacute;meros de la sort i els de l'&agrave;rea de joc, guanyar&agrave;s el premi indicat.\u003C\\/li\u003E\\r\\n\u003Cli\u003ECom m&eacute;s coincid&egrave;ncies tinguis, m&eacute;s guanyar&agrave;s.\u003C\\/li\u003E\\r\\n\u003C\\/ol\u003E\\r\\n\u003Cp\u003E\u003Cstrong\u003EJoc 2\u003C\\/strong\u003E\u003C\\/p\u003E\\r\\n\u003Col\u003E\\r\\n\u003Cli\u003ERasca l'&agrave;rea de joc.\u003C\\/li\u003E\\r\\n\u003Cli\u003EBusca i troba \\\"La Galeta de la Fortuna\\\".\u003C\\/li\u003E\\r\\n\u003Cli\u003EGuanyar&agrave;s el premi indicat en aquest joc.\u003C\\/li\u003E\\r\\n\u003C\\/ol\u003E\",\"zh\":\"\u003Cp\u003E\\u63d0\\u4f9b\\u5169\\u500b\\u904a\\u6232\u003Cbr\u003E\\u8981\\u8d0f\\u8acb\\u6309\\u7167\\u4ee5\\u4e0b\\u6b65\\u9a5f\\uff1a\u003Cbr\u003E\u003Cbr\u003E\u003Cstrong\u003E\\u904a\\u6232 1\u003C\\/strong\u003E\u003C\\/p\u003E\\r\\n\u003Col\u003E\\r\\n\u003Cli\u003E\\u522e\\u958b\\u904a\\u6232\\u5340\\u57df\\u3002\u003C\\/li\u003E\\r\\n\u003Cli\u003E\\u67e5\\u770b\\u5169\\u500b\\u5e78\\u904b\\u865f\\u78bc\\u3002\u003C\\/li\u003E\\r\\n\u003Cli\u003E\\u5c07\\u4f60\\u7684\\u5e78\\u904b\\u865f\\u78bc\\u8207\\u904a\\u6232\\u5340\\u57df\\u5167\\u7684\\u865f\\u78bc\\u9032\\u884c\\u6bd4\\u8f03\\u3002\u003C\\/li\u003E\\r\\n\u003Cli\u003E\\u5982\\u679c\\u4f60\\u7684\\u5e78\\u904b\\u865f\\u78bc\\u8207\\u904a\\u6232\\u5340\\u57df\\u5167\\u7684\\u865f\\u78bc\\u67091\\u62162\\u500b\\u5339\\u914d\\uff0c\\u4f60\\u5c07\\u8d0f\\u5f97\\u6a19\\u793a\\u7684\\u734e\\u54c1\\u3002\u003C\\/li\u003E\\r\\n\u003Cli\u003E\\u5339\\u914d\\u7684\\u6578\\u5b57\\u8d8a\\u591a\\uff0c\\u8d0f\\u5f97\\u7684\\u734e\\u54c1\\u8d8a\\u591a\\u3002\u003C\\/li\u003E\\r\\n\u003C\\/ol\u003E\\r\\n\u003Cp\u003E\u003Cstrong\u003E\\u904a\\u6232 2\u003C\\/strong\u003E\u003C\\/p\u003E\\r\\n\u003Col\u003E\\r\\n\u003Cli\u003E\\u522e\\u958b\\u904a\\u6232\\u5340\\u57df\\u3002\u003C\\/li\u003E\\r\\n\u003Cli\u003E\\u5c0b\\u627e\\u4e26\\u627e\\u5230\\u300c\\u5e78\\u904b\\u9905\\u4e7e\\u300d\\u3002\u003C\\/li\u003E\\r\\n\u003Cli\u003E\\u4f60\\u5c07\\u8d0f\\u5f97\\u8a72\\u904a\\u6232\\u4e0a\\u6a19\\u793a\\u7684\\u734e\\u54c1\\u3002\u003C\\/li\u003E\\r\\n\u003C\\/ol\u003E\"}",
+      "status": "ok",
+      "dispenser": 7,
+      "screen_position": 7
+    }
+  ],
+  "loading": "idle",
+  "error": null
+}

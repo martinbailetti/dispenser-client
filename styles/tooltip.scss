@@ -1,0 +1,129 @@
+/*
+https://dev.to/r3zu3/pure-css-tooltip-1k3j
+*/
+
+.tooltip-wrapper {
+  position: fixed;
+  z-index: 1;
+  animation: fadeOut 3s forwards;
+}
+
+@keyframes fadeOut {
+  0% {
+    opacity: 1;
+  }
+  80% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+.tooltip .square {
+  position: absolute;
+  background-color: $colorPrimary;
+  width: 20px;
+  height: 20px;
+  z-index: 500;
+  opacity: 1;
+  transition: all cubic-bezier(0.17, 0.67, 0.5, 0.71) 100ms;
+  pointer-events: none;
+}
+
+.tooltip .ellipse {
+  background-color: $colorPrimary;
+  border-radius: 5px;
+  color: white;
+  position: absolute;
+  text-align: center;
+  z-index: 555;
+  opacity: 1;
+  transition: all cubic-bezier(0.17, 0.67, 0.5, 0.71) 100ms;
+  pointer-events: none;
+  min-height: 30px;
+  display: flex;
+  align-items: center;
+  padding: 0 0.5555555556rem;
+  width: 250px;
+}
+
+.tooltip.t-top .square {
+  top: 0;
+  left: 50%;
+  transform: translate(-50%, 0) rotate(45deg);
+}
+
+.tooltip.t-top .ellipse {
+  top: 0;
+  left: 50%;
+  transform: translate(-50%, 0);
+}
+
+.tooltip.t-top .square {
+  transform: translate(-50%, calc(-100% - 5px)) rotate(45deg);
+}
+
+.tooltip.t-top .ellipse {
+  transform: translate(-50%, calc(-100% - 10px));
+}
+
+.tooltip.t-left .square {
+  top: 25%;
+  left: 0;
+  transform: translate(0, 0%) rotate(45deg);
+}
+
+.tooltip.t-left .ellipse {
+  top: 0;
+  left: 0;
+}
+
+.tooltip.t-left .square {
+  transform: translate(calc(-100% - 5px)) rotate(45deg);
+}
+
+.tooltip.t-left .ellipse {
+  transform: translate(calc(-100% - 10px));
+}
+
+.tooltip.t-right .square {
+  top: -7px;
+  right: -15px;
+  transform: translate(0, 0%) rotate(45deg);
+}
+
+.tooltip.t-right .ellipse {
+  top: 0;
+  right: 0;
+}
+
+.tooltip.t-right .square {
+  transform: translate(calc(100% + 5px)) rotate(45deg);
+}
+
+.tooltip.t-right .ellipse {
+  transform: translate(calc(100% + 10px));
+  font-size: 20px;
+  padding: 10px 20px;
+}
+
+.tooltip.t-bottom .square {
+  bottom: 0;
+  left: 50%;
+  transform: translate(-50%, 0) rotate(45deg);
+}
+
+.tooltip.t-bottom .ellipse {
+  bottom: 0;
+  left: 50%;
+  transform: translate(-50%, 0);
+}
+
+.tooltip.t-bottom .square {
+  transform: translate(-50%, calc(100% + 5px)) rotate(45deg);
+}
+
+.tooltip.t-bottom .ellipse {
+  transform: translate(-50%, calc(100% + 10px));
+}
